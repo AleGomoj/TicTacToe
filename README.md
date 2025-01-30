@@ -1,6 +1,7 @@
 # Tic Tac Toe
 Class exercise.
 This is a simple **Tic Tac Toe** game built with **React**.
+[🎮 Play Here](https://tic-tac-toe-psi-ashen.vercel.app)
 
 ## Requirements
 
@@ -35,4 +36,4 @@ Follow these steps to clone and run the project in your local environment:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
